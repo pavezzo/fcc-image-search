@@ -1,0 +1,17 @@
+{
+  "name": "fcc-image-search",
+  "version": "1.0.0",
+  "description": "exercise for fcc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Paavo Nätti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "googleapis": "^12.4.0",
+    "mongoose": "^4.6.0"
+  }
+}
